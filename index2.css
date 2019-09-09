@@ -1,0 +1,33 @@
+table
+{
+    border: black solid 1px;
+}
+
+th
+{
+    border: black solid 1px;
+    font-size: 30px;
+}
+td
+{
+    border: black solid 1px;
+    font-size: 20px;
+}
+.blue
+{
+    background-color: cornflowerblue;
+}
+.pink
+{
+    background-color:deeppink;
+}
+.purple
+{
+    background-color: mediumpurple;
+}
+.star
+{
+    font-size: 50px;
+    color: gold;
+
+}
